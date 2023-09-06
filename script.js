@@ -150,3 +150,7 @@ allsection.forEach(function(sectin){
   sectin.classList.add('section--hidden');
 
 })
+const newfeat=()=>{
+  console.log('jsjsj');
+}
+newfeat()
